@@ -164,7 +164,7 @@ function each(arr, callback){
 each(names, indexFunc)
 
 function indexFunc (item, index){
-  console.log(`The item at index ${item} is ${index}`)
+  console.log(`The item at index ${index} is ${item}`)
 }
 
 
